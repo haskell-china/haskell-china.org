@@ -1,0 +1,15 @@
+
+body {
+  background-image: url('http://ww4.sinaimg.cn/large/0061GEPrgw1epai3swq2fj30zk0m80xb.jpg');
+}
+
+.main {
+  color: white;
+  font-size: 32px;
+  margin: 60px;
+  font-family: Palatino, Optima, Georgia, serif;
+}
+
+.main a {
+  color: white;
+}
